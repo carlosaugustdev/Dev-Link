@@ -34,7 +34,8 @@ body * {
 /*Style container*/
 #container {
   /*margin top left/rigth bottom*/
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   margin: 56px auto 0;
   padding: 24px;
 }
